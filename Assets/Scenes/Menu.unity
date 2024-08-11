@@ -609,6 +609,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7469781106016448621, guid: dbdffc390634363418a78c6ca23ab60a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e632e59c05b26164193340d3a0351543, type: 3}
     - target: {fileID: 7481967986203724032, guid: dbdffc390634363418a78c6ca23ab60a, type: 3}
       propertyPath: m_text
       value: Enter name
@@ -1477,7 +1481,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1199210841}
   m_CullTransparentMesh: 1
---- !u!21 &1256229128
+--- !u!21 &1252313530
 Material:
   serializedVersion: 8
   m_ObjectHideFlags: 0
@@ -2185,7 +2189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 1256229128}
+  m_Material: {fileID: 1252313530}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -2193,7 +2197,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 13a878f8ca8a6fa45b8887001de16e51, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e632e59c05b26164193340d3a0351543, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

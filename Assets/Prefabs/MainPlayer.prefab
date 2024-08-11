@@ -65,7 +65,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: MacLean
+  m_text: 'Player
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7d1419f82a99ac54dbae260678d03747, type: 2}
   m_sharedMaterial: {fileID: 6418599181981869977, guid: 7d1419f82a99ac54dbae260678d03747, type: 2}
@@ -168,7 +170,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -3, y: 25}
   m_SizeDelta: {x: 179, y: 202}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1781656066621250213
@@ -199,7 +201,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6908cb2c4f5037f40a781c100ac26fac, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f4768f5b3ba3c8d49a4757b2f7b446d2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -897,7 +899,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 2}
+  m_AnchoredPosition: {x: 0, y: 25}
   m_SizeDelta: {x: 139, y: 141}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &22834092158327403
@@ -928,7 +930,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 13a878f8ca8a6fa45b8887001de16e51, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e632e59c05b26164193340d3a0351543, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
